@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,CustomerName,CustomerCity,CustomerState,CustomerCountry,ProductID,ProductName,ProductCategory,ProductSubcategory,SupplierID,SupplierName,SupplierCity,SalespersonID,SalespersonName,SalespersonRegion,Quantity,UnitPrice,Discount,TotalAmount,ShippingCost,OrderPriority
+1001,2024-01-15,C001,Acme Corp,New York,NY,USA,P101,Wireless Mouse,Electronics,Computer Accessories,S001,TechSupply Inc,San Jose,SP001,John Smith,North,25,29.99,0.05,712.38,15.50,High
+1002,2024-01-16,C002,Global Solutions,Los Angeles,CA,USA,P205,Office Chair,Furniture,Seating,S003,ComfortFurn Ltd,Grand Rapids,SP002,Sarah Johnson,West,3,199.99,0.10,539.97,25.00,Medium
+1003,2024-01-16,C003,Midwest Manufacturing,Chicago,IL,USA,P301,Coffee Maker,Appliances,Kitchen,S005,HomeApps Co,Milwaukee,SP003,Mike Davis,Central,5,89.99,0.00,449.95,12.75,Low
+1004,2024-01-17,C001,Acme Corp,New York,NY,USA,P102,Bluetooth Keyboard,Electronics,Computer Accessories,S001,TechSupply Inc,San Jose,SP001,John Smith,North,15,79.99,0.08,1103.87,18.25,High
+1005,2024-01-18,C004,Eastern Enterprises,Boston,MA,USA,P401,Notebook Set,Office Supplies,Stationery,S007,PaperPlus Inc,Atlanta,SP004,Lisa Wilson,East,50,12.99,0.15,551.58,8.90,Medium
+1006,2024-01-19,C005,Southwest Services,Phoenix,AZ,USA,P103,USB Drive 32GB,Electronics,Storage,S002,DataStore Corp,Austin,SP002,Sarah Johnson,West,100,24.99,0.20,1999.20,22.30,High
+1007,2024-01-20,C002,Global Solutions,Los Angeles,CA,USA,P206,Standing Desk,Furniture,Desks,S003,ComfortFurn Ltd,Grand Rapids,SP002,Sarah Johnson,West,2,399.99,0.05,759.98,35.00,Medium
+1008,2024-01-21,C006,Northern Networks,Seattle,WA,USA,P302,Blender,Appliances,Kitchen,S005,HomeApps Co,Milwaukee,SP005,Tom Anderson,West,8,129.99,0.12,915.93,16.40,Low
+1009,2024-01-22,C003,Midwest Manufacturing,Chicago,IL,USA,P402,Printer Paper,Office Supplies,Paper Products,S007,PaperPlus Inc,Atlanta,SP003,Mike Davis,Central,25,19.99,0.00,499.75,11.20,Medium
+1010,2024-01-23,C007,Southern Strategies,Atlanta,GA,USA,P104,Webcam HD,Electronics,Computer Accessories,S001,TechSupply Inc,San Jose,SP004,Lisa Wilson,East,12,89.99,0.10,971.91,14.85,High
+1011,2024-01-24,C004,Eastern Enterprises,Boston,MA,USA,P207,Ergonomic Mat,Furniture,Accessories,S004,ErgoComfort LLC,Denver,SP004,Lisa Wilson,East,6,59.99,0.00,359.94,9.75,Low
+1012,2024-01-25,C008,Pacific Partners,San Francisco,CA,USA,P303,Microwave,Appliances,Kitchen,S005,HomeApps Co,Milwaukee,SP002,Sarah Johnson,West,4,179.99,0.15,611.97,28.60,Medium
+1013,2024-01-26,C001,Acme Corp,New York,NY,USA,P403,Stapler,Office Supplies,Stationery,S006,OfficeMax Pro,Chicago,SP001,John Smith,North,20,15.99,0.00,319.80,6.50,Low
+1014,2024-01-27,C009,Rocky Mountain Co,Denver,CO,USA,P105,External Hard Drive,Electronics,Storage,S002,DataStore Corp,Austin,SP005,Tom Anderson,Central,7,149.99,0.18,857.94,19.95,High
+1015,2024-01-28,C005,Southwest Services,Phoenix,AZ,USA,P208,Conference Table,Furniture,Tables,S003,ComfortFurn Ltd,Grand Rapids,SP002,Sarah Johnson,West,1,899.99,0.12,791.99,45.00,High
+1016,2024-01-29,C010,Coastal Corp,Miami,FL,USA,P304,Toaster,Appliances,Kitchen,S005,HomeApps Co,Milwaukee,SP004,Lisa Wilson,East,10,49.99,0.05,474.91,13.25,Medium
+1017,2024-01-30,C006,Northern Networks,Seattle,WA,USA,P404,File Folders,Office Supplies,Filing,S007,PaperPlus Inc,Atlanta,SP005,Tom Anderson,West,75,8.99,0.20,539.40,10.80,Low
+1018,2024-01-31,C002,Global Solutions,Los Angeles,CA,USA,P106,Monitor 24inch,Electronics,Displays,S008,ScreenTech Ltd,Portland,SP002,Sarah Johnson,West,6,299.99,0.08,1655.95,32.10,High
+1019,2024-02-01,C011,Mountain View Inc,Salt Lake City,UT,USA,P209,Bookshelf,Furniture,Storage,S004,ErgoComfort LLC,Denver,SP005,Tom Anderson,Central,3,179.99,0.00,539.97,27.80,Medium
+1020,2024-02-02,C003,Midwest Manufacturing,Chicago,IL,USA,P305,Food Processor,Appliances,Kitchen,S005,HomeApps Co,Milwaukee,SP003,Mike Davis,Central,2,249.99,0.10,449.98,21.50,Low
